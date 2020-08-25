@@ -1,0 +1,3 @@
+{
+	"mongoURI": "mongodb+srv://user_0:papponi312@cluster0.vq45a.mongodb.net/PhonebookDB?retryWrites=true&w=majority"
+}
